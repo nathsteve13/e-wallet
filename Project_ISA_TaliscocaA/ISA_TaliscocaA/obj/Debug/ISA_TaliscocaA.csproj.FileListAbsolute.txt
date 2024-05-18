@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Documents\Nathanael Steven Soetrisno\UBAYA\Semester 4\ISA\Project_ISA_TaliscocaA\ISA_TaliscocaA\obj\Debug\ISA_TaliscocaA.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\Nathanael Steven Soetrisno\UBAYA\Semester 4\ISA\Project_ISA_TaliscocaA\ISA_TaliscocaA\obj\Debug\ISA_TaliscocaA.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\Nathanael Steven Soetrisno\UBAYA\Semester 4\ISA\Project_ISA_TaliscocaA\ISA_TaliscocaA\bin\Debug\ISA_TaliscocaA.dll
+C:\Users\natha\OneDrive\Documents\Nathanael Steven Soetrisno\UBAYA\Semester 4\ISA\Project_ISA_TaliscocaA\ISA_TaliscocaA\bin\Debug\ISA_TaliscocaA.pdb
+C:\Users\natha\OneDrive\Documents\Nathanael Steven Soetrisno\UBAYA\Semester 4\ISA\Project_ISA_TaliscocaA\ISA_TaliscocaA\obj\Debug\ISA_Tali.C37AF6E8.Up2Date
+C:\Users\natha\OneDrive\Documents\Nathanael Steven Soetrisno\UBAYA\Semester 4\ISA\Project_ISA_TaliscocaA\ISA_TaliscocaA\obj\Debug\ISA_TaliscocaA.dll
+C:\Users\natha\OneDrive\Documents\Nathanael Steven Soetrisno\UBAYA\Semester 4\ISA\Project_ISA_TaliscocaA\ISA_TaliscocaA\obj\Debug\ISA_TaliscocaA.pdb

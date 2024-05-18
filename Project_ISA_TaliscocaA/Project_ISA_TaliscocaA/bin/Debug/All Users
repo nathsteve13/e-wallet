@@ -1,0 +1,20 @@
+All Products
+
+dicetak tanggal 01-05-2024
+
+------------------------------------------------------------------
+   user_id   username   name   email   phone_number   password   role   kartu_identitas   gender   birthdate   
+------------------------------------------------------------------
+1   johndoe   John Doe   john.doe@example.com   1234567890   123456   customer      P   6/9/2004 12:00:00 AM
+2   janedoe   Jane Doe   jane.doe@example.com   0987654321   654321   partner      P   3/12/2000 12:00:00 AM
+3   adminuser   Admin User   admin@example.com   1122334455   123654   admin      P   2/1/2001 12:00:00 AM
+14   nathsteve   Nathanael   nathan@gmail,com   082323231232   11223344      123123123   P   5/1/2024 12:00:00 AM
+15   asda   adsa   asda   asdsa   adsa      asda   P   5/1/2024 12:00:00 AM
+16   ada   ada   ada   ada   ada   customer   ada   P   5/1/2024 12:00:00 AM
+17   123   123   1223   123   123   customer   123   P   5/1/2024 12:00:00 AM
+19   wdwa   asd   wdawdwa   2222   11111   customer   asdf   P   5/1/2024 12:00:00 AM
+21   asddfg   asddfg   asddfg   asddfg   asddfg   customer   asddfg   P   5/1/2024 12:00:00 AM
+23   zxczxc   zxc   zxc   zxc   zxczxc      zxc   P   5/1/2024 12:00:00 AM
+26   tyutyu   tyutyu   tyutyu   tyutyu   tyutyu   customer   tyutyu   L   5/1/2024 12:00:00 AM
+28   saqnjaya   saqnjaya   saqnjaya   saqnjaya   saqnjayasaqnjaya   customer   saqnjaya   L   5/1/2024 12:00:00 AM
+------------------------------------------------------------------

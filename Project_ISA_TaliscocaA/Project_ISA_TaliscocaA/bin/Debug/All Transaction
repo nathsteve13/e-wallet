@@ -1,0 +1,55 @@
+All Transaction
+
+dicetak tanggal 02-05-2024
+
+------------------------------------------------------------------
+   transaction_id   user_id   recipient_id   amount   transaction_type   timestamp   description   
+------------------------------------------------------------------
+1   1   2   150   purchase   4/20/2024 1:00:58 PM   Purchase of Gadget XYZ
+2   1   2   200   transfer   4/20/2024 1:00:58 PM   Transfer to Jane Doe
+4   1   2   5000   transfer   4/28/2024 9:01:14 PM   Halo kang
+5   1   2   5000   transfer   4/28/2024 9:03:38 PM   Halo kang
+6   1   2   1000   transfer   4/28/2024 9:22:30 PM   av
+7   1   2   2000   transfer   4/28/2024 9:25:05 PM   Halo kang
+8   1   2   1000   transfer   4/28/2024 10:08:57 PM   av
+9   1   0   3000   transfer   4/28/2024 11:19:09 PM   
+10   1   0   3000   transfer   4/28/2024 11:19:29 PM   
+11   1   0   3000   transfer   4/28/2024 11:19:38 PM   
+12   1   0   3000   transfer   4/28/2024 11:19:51 PM   
+13   1   1   3000   topup   4/28/2024 11:23:13 PM   
+14   1   1   3000   topup   4/28/2024 11:25:15 PM   
+15   1   2   10000   purchase   4/30/2024 9:24:58 PM   Pembelian produk
+16   1   1   50000   topup   4/30/2024 9:27:27 PM   
+17   1   2   15000   purchase   4/30/2024 9:27:38 PM   Pembelian produk
+18   1   2   10000   purchase   4/30/2024 9:29:22 PM   Pembelian produk
+19   1   2   10000   purchase   4/30/2024 9:30:00 PM   Pembelian produk
+20   1   2   10000   purchase   4/30/2024 9:30:58 PM   Pembelian produk
+21   1   2   5000   purchase   4/30/2024 9:32:49 PM   Pembelian produk
+22   1   1   50000   topup   4/30/2024 9:39:34 PM   
+23   1   2   10000   purchase   4/30/2024 9:40:17 PM   Pembelian produk
+24   1   2   10000   purchase   4/30/2024 9:42:41 PM   Pembelian produk
+25   1   2   10000   purchase   4/30/2024 9:50:56 PM   Pembelian produk
+26   1   2   10000   purchase   4/30/2024 9:52:24 PM   Pembelian produk
+27   1   2   10000   purchase   4/30/2024 9:52:57 PM   Pembelian produk
+28   1   2   10000   purchase   4/30/2024 9:53:08 PM   Pembelian produk
+29   1   1   100000   topup   4/30/2024 9:53:25 PM   
+30   1   2   10000   purchase   4/30/2024 9:54:39 PM   Pembelian produk
+31   1   2   10000   purchase   4/30/2024 9:55:57 PM   Pembelian produk
+32   1   2   10000   purchase   4/30/2024 9:57:18 PM   Pembelian produk
+33   1   2   10000   purchase   4/30/2024 9:59:10 PM   Pembelian produk
+34   1   2   10000   purchase   4/30/2024 10:00:19 PM   Pembelian produk
+35   1   2   10000   purchase   4/30/2024 10:01:08 PM   Pembelian produk
+36   1   2   15000   purchase   5/1/2024 1:03:26 PM   Pembelian produk
+37   1   2   10000   purchase   5/1/2024 1:05:13 PM   Pembelian produk
+38   28   28   100000   topup   5/1/2024 2:20:57 PM   
+39   1   2   2000   purchase   5/1/2024 6:33:45 PM   Pembelian produk
+40   30   30   50000   topup   5/1/2024 8:28:06 PM   
+41   30   2   2000   purchase   5/1/2024 8:49:27 PM   Pembelian produk
+42   39   39   20000   topup   5/2/2024 6:02:45 AM   
+43   39   1   2000   transfer   5/2/2024 6:03:00 AM   uang makan
+44   40   40   200000   topup   5/2/2024 7:35:11 AM   
+45   40   29   10000   transfer   5/2/2024 7:35:26 AM   uang makan
+46   40   2   5000   purchase   5/2/2024 7:36:11 AM   Pembelian produk
+47   43   43   200000   topup   5/2/2024 8:26:38 AM   
+48   43   29   20000   transfer   5/2/2024 8:27:07 AM   uang makan
+------------------------------------------------------------------
